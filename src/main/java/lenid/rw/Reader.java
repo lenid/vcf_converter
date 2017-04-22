@@ -9,9 +9,6 @@ import java.io.InputStreamReader;
 import java.util.ArrayList;
 import java.util.List;
 
-/**
- * Created by andi on 17.04.2017.
- */
 public class Reader {
 
     private static final String BEGIN = "BEGIN:VCARD";
