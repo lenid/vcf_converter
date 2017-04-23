@@ -8,6 +8,7 @@ import java.io.FileWriter;
 import java.io.InputStreamReader;
 import java.util.List;
 
+// The conversation type does not work
 public class MainSE {
     public static void main(String[] args) throws Exception {
 
